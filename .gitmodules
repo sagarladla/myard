@@ -1,0 +1,87 @@
+[submodule "Practise"]
+	path = Practise
+	url = https://github.com/sagarlulla/Practise.git
+[submodule "rust_server"]
+	path = rust_server
+	url = https://github.com/sagarlulla/rust_server.git
+[submodule "time_pass_at_nanighar"]
+	path = time_pass_at_nanighar
+	url = https://github.com/sagarlulla/time_pass_at_nanighar.git
+[submodule "SSIP_2018_Proj"]
+	path = SSIP_2018_Proj
+	url = https://github.com/sagarlulla/SSIP_2018_Proj.git
+[submodule "Word_Embedding"]
+	path = Word_Embedding
+	url = https://github.com/sagarlulla/Word_Embedding.git
+[submodule "yt_playlist_downloader"]
+	path = yt_playlist_downloader
+	url = https://github.com/sagarlulla/yt_playlist_downloader.git
+[submodule "Welcome_To_Future_Dimension"]
+	path = Welcome_To_Future_Dimension
+	url = https://github.com/sagarlulla/Welcome_To_Future_Dimension.git
+[submodule "xyzmusic"]
+	path = xyzmusic
+	url = https://github.com/sagarlulla/xyzmusic.git
+[submodule "wokeflix"]
+	path = wokeflix
+	url = https://github.com/sagarlulla/wokeflix.git
+[submodule "Sindhi-Abaani-Boli"]
+	path = Sindhi-Abaani-Boli
+	url = https://github.com/sagarlulla/Sindhi-Abaani-Boli.git
+[submodule "SFML-Projects"]
+	path = SFML-Projects
+	url = https://github.com/sagarlulla/SFML-Projects.git
+[submodule "sethiyun"]
+	path = sethiyun
+	url = https://github.com/sagarlulla/sethiyun.git
+[submodule "media4ensic"]
+	path = media4ensic
+	url = https://github.com/sagarlulla/media4ensic.git
+[submodule "mhd-renewate-app"]
+	path = mhd-renewate-app
+	url = https://github.com/sagarlulla/mhd-renewate-app.git
+[submodule "infostealer"]
+	path = infostealer
+	url = https://github.com/sagarlulla/infostealer.git
+[submodule "godam"]
+	path = godam
+	url = https://github.com/sagarlulla/godam.git
+[submodule "fake-message"]
+	path = fake-message
+	url = https://github.com/sagarlulla/fake-message.git
+[submodule "websockets"]
+	path = websockets
+	url = https://github.com/sagarlulla/websockets.git
+[submodule "switchabletabs"]
+	path = switchabletabs
+	url = https://github.com/sagarlulla/switchabletabs.git
+[submodule "single-page-app"]
+	path = single-page-app
+	url = https://github.com/sagarlulla/single-page-app.git
+[submodule "progressive-web-app"]
+	path = progressive-web-app
+	url = https://github.com/sagarlulla/progressive-web-app.git
+[submodule "URLink2QR"]
+	path = URLink2QR
+	url = https://github.com/sagarlulla/URLink2QR.git
+[submodule "Twitter-Sentiment-Analysis"]
+	path = Twitter-Sentiment-Analysis
+	url = https://github.com/sagarlulla/Twitter-Sentiment-Analysis.git
+[submodule "Tweelyzer"]
+	path = Tweelyzer
+	url = https://github.com/sagarlulla/Tweelyzer.git
+[submodule "Flask-REST-API"]
+	path = Flask-REST-API
+	url = https://github.com/sagarlulla/Flask-REST-API.git
+[submodule "Batch-Gradient-Descent"]
+	path = Batch-Gradient-Descent
+	url = https://github.com/sagarlulla/Batch-Gradient-Descent.git
+[submodule "fasttest"]
+	path = fasttest
+	url = https://github.com/sagarlulla/fasttest.git
+[submodule "bandwidth-monitor"]
+	path = bandwidth-monitor
+	url = https://github.com/sagarlulla/bandwidth-monitor.git
+[submodule "blockchain"]
+	path = blockchain
+	url = https://github.com/sagarlulla/blockchain.git
